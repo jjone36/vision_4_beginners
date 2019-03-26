@@ -3,7 +3,7 @@
 
 Computer Vision is one of the hottest topics in artificial intelligence. It is making tremendous advances in self-driving cars, robotics as well as in various photo correction apps. Steady progress in object detection is being made every day. GANs is also a thing researchers are putting their eyes on these days. Vision is showing us the future of technology and we can’t even imagine what will be the end of its possibilities.
 
-![img](https://cdn-images-1.medium.com/max/1200/1*CwSvaseYli4Jst1ibNXTgQ.jpeg)
+![img](https://github.com/jjone36/vision_4_beginners/blob/master/images/main.jpg)
 
 So do you want to take your first step in Computer Vision and participate in this latest movement? Welcome you are at the right place. The complete set of the series is like follows:
 
