@@ -12,6 +12,6 @@ The complete set of the series is as follows:
 
 - Part 2: [The Basics of Image Processing](https://github.com/jjone36/vision_4_beginners/blob/master/part2_image_processing.ipynb)
 
-- Part 3: [From Feature Detection to Face Detection](https://github.com/jjone36/vision_4_beginners/blob/master/part3_object_detection.ipynb)
+- Part 3: TBU
 
 - Part 4: Image segmentation : TBU
