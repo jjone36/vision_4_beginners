@@ -1,5 +1,5 @@
 # Computer Vision for Beginners
-*: The series of Computer Vision for Beginners on Medium*
+*: The series of Computer Vision for Beginners*
 
 Computer Vision is one of the hottest topics in artificial intelligence. It is making tremendous advances in self-driving cars, robotics as well as in various photo correction apps. Steady progress in object detection is being made every day. GANs is also a thing researchers are putting their eyes on these days. Vision is showing us the future of technology and we can’t even imagine what will be the end of its possibilities.
 
