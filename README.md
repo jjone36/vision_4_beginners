@@ -16,7 +16,7 @@ pip install opencv-python==3.4.2
 pip install opencv-contrib-python==3.3.1
 ```
 
-After you finish the installation, try importing the package to see if it works well. 
+After you finish the installation, try importing the package to see if it works well.
 
 ```
 import cv2
@@ -33,6 +33,6 @@ you can also find the detailed description [here](https://pypi.org/project/openc
 
 - Part 2: [The Basics of Image Processing](https://github.com/jjone36/vision_4_beginners/blob/master/part2_image_processing.ipynb)
 
-- Part 3: TBU
+- Part 3: [From Feature Detection to Face Detection](https://github.com/jjone36/vision_4_beginners/blob/master/part3_object_detection.ipynb)
 
 - Part 4: Image segmentation : TBU
