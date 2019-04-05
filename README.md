@@ -7,6 +7,8 @@ Computer Vision is one of the hottest topics in artificial intelligence. It is m
 
 So do you want to take your first step in Computer Vision and participate in this latest movement? Welcome you are at the right place. This is the tutorial for Computer Vision and Image Processing for beginners, which is also available on [Medium](https://towardsdatascience.com/computer-vision-for-beginners-part-1-7cca775f58ef).
 
+<br>
+
 ## Installing OpenCV :
 
 The installation can be processed as follows.
