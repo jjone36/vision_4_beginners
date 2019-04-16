@@ -9,27 +9,27 @@ So do you want to take your first step in Computer Vision and participate in thi
 
 <br>
 
-## Installing OpenCV :
+## Installing OpenCV
 
-The installation can be processed as follows.
+The installation can be processed as follows:
 
 ```
 pip install opencv-python==3.4.2
 pip install opencv-contrib-python==3.3.1
 ```
 
-After you finish the installation, try importing the package to see if it works well.
+After you finish the installation, try importing the package to see if it works well
 
 ```
 import cv2
 cv2.__version__
 ```
 
-you can also find the detailed description [here](https://pypi.org/project/opencv-python/).
+you can also find the detailed description [here](https://pypi.org/project/opencv-python/)
 
 <br>
 
-## The whole set of the series :
+## The whole set of the series
 
 - Part 1: [Understanding Color Models and Drawing Figures on Images](https://github.com/jjone36/vision_4_beginners/blob/master/part1_introduction.ipynb)
 
@@ -37,4 +37,4 @@ you can also find the detailed description [here](https://pypi.org/project/openc
 
 - Part 3: [From Feature Detection to Face Detection](https://github.com/jjone36/vision_4_beginners/blob/master/part3_object_detection.ipynb)
 
-- Part 4: Image segmentation : TBU
+- Part 4: [Image segmentation with WaterShed Algorithm](https://github.com/jjone36/vision_4_beginners/blob/master/part4_image_segmentation.ipynb)
