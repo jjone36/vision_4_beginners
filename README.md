@@ -37,4 +37,4 @@ you can also find the detailed description [here](https://pypi.org/project/openc
 
 - Part 3: [From Feature Detection to Face Detection](https://github.com/jjone36/vision_4_beginners/blob/master/part3_object_detection.ipynb)
 
-- Part 4: [Image segmentation with WaterShed Algorithm](https://github.com/jjone36/vision_4_beginners/blob/master/part4_image_segmentation.ipynb)
+- Part 4: [Contour Detection and Mapping](https://github.com/jjone36/vision_4_beginners/blob/master/part4_contour_mapping.ipynb)
