@@ -33,8 +33,8 @@ you can also find the detailed description [here](https://pypi.org/project/openc
 
 - Part 1: [Understanding Color Models and Drawing Figures on Images](https://github.com/jjone36/vision_4_beginners/blob/master/part1_introduction.ipynb)
 
-- Part 2: [The Basics of Image Processing](https://github.com/jjone36/vision_4_beginners/blob/master/part2_image_processing.ipynb)
+- Part 2: [The Basics of Image Processing with Filtering and Gradients](https://github.com/jjone36/vision_4_beginners/blob/master/part2_image_processing.ipynb)
 
 - Part 3: [From Feature Detection to Face Detection](https://github.com/jjone36/vision_4_beginners/blob/master/part3_object_detection.ipynb)
 
-- Part 4: [Contour Detection and Mapping](https://github.com/jjone36/vision_4_beginners/blob/master/part4_contour_mapping.ipynb)
+- Part 4: [Contour Detection and Having A Little Bit of Fun](https://github.com/jjone36/vision_4_beginners/blob/master/part4_contour_mapping.ipynb)
