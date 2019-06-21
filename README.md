@@ -33,8 +33,26 @@ you can also find the detailed description [here](https://pypi.org/project/openc
 
 - Part 1: [Understanding Color Models and Drawing Figures on Images](https://github.com/jjone36/vision_4_beginners/blob/master/01.image_processing/01_introduction.ipynb)
 
+<<<<<<< HEAD
 - Part 2: [The Basics of Image Processing with Filtering and Gradients](https://github.com/jjone36/vision_4_beginners/blob/master/01.image_processing/02_image_processing.ipynb)
+||||||| merged common ancestors
+- Part 2: [The Basics of Image Processing with Filtering and Gradients](https://github.com/jjone36/vision_4_beginners/blob/master/part2_image_processing.ipynb)
+=======
+- Part 2: [The Basics of Image Processing with Filtering and Gradients](https://github.com/jjone36/vision_4_beginners/blob/master/01.image_processing/part2_image_processing.ipynb)
+>>>>>>> 98f8701798b5ce54ac1a311dc2813e775efba1d2
 
+<<<<<<< HEAD
 - Part 3: [From Feature Detection to Face Detection](https://github.com/jjone36/vision_4_beginners/blob/master/01.image_processing/03_object_detection.ipynb)
+||||||| merged common ancestors
+- Part 3: [From Feature Detection to Face Detection](https://github.com/jjone36/vision_4_beginners/blob/master/part3_object_detection.ipynb)
+=======
+- Part 3: [From Feature Detection to Face Detection](https://github.com/jjone36/vision_4_beginners/blob/master/01.image_processing/part3_object_detection.ipynb)
+>>>>>>> 98f8701798b5ce54ac1a311dc2813e775efba1d2
 
+<<<<<<< HEAD
 - Part 4: [Contour Detection and Having A Little Bit of Fun](https://github.com/jjone36/vision_4_beginners/blob/master/01.image_processing/04_contour_mapping.ipynb)
+||||||| merged common ancestors
+- Part 4: [Contour Detection and Having A Little Bit of Fun](https://github.com/jjone36/vision_4_beginners/blob/master/part4_contour_mapping.ipynb)
+=======
+- Part 4: [Contour Detection and Having A Little Bit of Fun](https://github.com/jjone36/vision_4_beginners/blob/master/01.image_processing/part4_contour_mapping.ipynb)
+>>>>>>> 98f8701798b5ce54ac1a311dc2813e775efba1d2
