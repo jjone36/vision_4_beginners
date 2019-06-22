@@ -30,7 +30,7 @@ class ConvLayer:
         X += self.b
         return X
 
-    # This is for
+    # This is for sanity check later
     def copy_keras_layers(self, layer):
         W, b = layer.get_weights()
         op1 = self.W.assign(W)
@@ -59,6 +59,7 @@ class BNLayer:
                                       variance_epsilon = 1e-3)
         return X
 
+    # This is for sanity check later
     def copy_keras_layers(self, layer):
         gamma, beta, running_mean, running_var = layer.get_weights()
         op1 = self.running_mean.assign(running_mean)
@@ -144,6 +145,7 @@ class ConvBlock:
         self.conv_s.session = session
         self.bn_s.session = session
 
+    # This is for sanity check later
     def copy_keras_layers(self, layers):
         self.conv_1.copy_keras_layers(layers[0])
         self.bn_1.copy_keras_layers(layers[1])

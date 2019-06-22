@@ -47,6 +47,7 @@ class PartialResNet:
         self.input = tf.placeholder(tf.float32, shape=(None, 224, 224, 3))
         self.output = self.forward(self.input)
 
+    # This is for sanity check later
     def copy_keras_layers(self, layers):
         self.layers[0].copy_keras_layers(layers[1])
         self.layers[1].copy_keras_layers(layers[2])

@@ -70,6 +70,7 @@ class IdentityBlock:
         self.conv_s.session = session
         self.bn_s.session = session
 
+    # This is for sanity check later
     def copy_keras_layers(self, layers):
         assert len(layers) == 10
         self.conv_1.copy_keras_layers(layers[0])
